@@ -11,7 +11,10 @@ class Book
   def author
   end
 
-  def page_count
+  def author=(author)
+  end
+
+  def page_count=()
   end
 
   def genre
